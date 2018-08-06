@@ -2,15 +2,15 @@
 
 Generate random guid
 
-### Installation
+## Installation
 
-```
+```bash
 dotnet tool install -g wk.Guid
 ```
 
-### Usage
+## Usage
 
-```
+```bash
 $ wk-guid N
 2212053cff664a6aa3a686f4c4ad773c
 
