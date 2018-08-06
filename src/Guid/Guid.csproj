@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <PackageId>wk.Guid</PackageId>
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>wk-guid</ToolCommandName>
+    <Version>0.1.0</Version>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>
