@@ -1,6 +1,8 @@
 ## Guid
 
-Generate random guid
+[![NuGet](https://img.shields.io/nuget/v/wk.Guid.svg)](https://www.nuget.org/packages/wk.Guid)
+
+Generate random GUID
 
 ## Installation
 
